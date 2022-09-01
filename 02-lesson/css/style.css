@@ -11,6 +11,12 @@ p {
     color: purple;
 }
 
+/* Select nested elements */
+p span {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
 /* Class selector */
 .gray {
     color: gray;
