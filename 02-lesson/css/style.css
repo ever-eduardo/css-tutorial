@@ -6,3 +6,8 @@ body {
 p {
     color: purple;
 }
+
+/* Class selector */
+.gray {
+    color: gray;
+}
