@@ -11,3 +11,8 @@ p {
 .gray {
     color: gray;
 }
+
+/* Id selector */
+#second-paragraph {
+    font-style: italic;
+}
