@@ -10,7 +10,8 @@ header h1 {
 }
 
 main p {
-    font-size: 1.5em;
-    padding: 1.6rem;
+    font-size: 1.5rem;
+    padding: 2.5rem;
     text-align: right;
+    width: 48ch;
 }
