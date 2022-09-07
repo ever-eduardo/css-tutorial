@@ -9,4 +9,6 @@
     font-size: 1.5rem;
     padding: 1.5em 2em 3em 4em;
     margin: 1.5em 2em 3em 4em;
+    outline: 3px solid purple;
+    outline-offset: -20px;
 }
