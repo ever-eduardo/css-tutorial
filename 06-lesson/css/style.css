@@ -10,5 +10,6 @@ input, button {
 p {
     text-align: left;
     text-indent: 5rem;
-    line-height: 1.7;
+    line-height: 1.9;
+    letter-spacing: 0.12em;
 }
