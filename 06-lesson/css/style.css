@@ -1,7 +1,7 @@
 body {
     padding: 10%;
     font-size: 2rem;
-    font-family: monospace, sans-serif, Verdana, Tahoma;
+    font-family: 'Roboto', sans-serif;
 }
 
 input, button {
