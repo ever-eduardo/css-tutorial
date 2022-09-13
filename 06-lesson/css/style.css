@@ -2,3 +2,7 @@ body {
     padding: 10%;
     font-size: 2rem;
 }
+
+input, button {
+    font: inherit;
+}
