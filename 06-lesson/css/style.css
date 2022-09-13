@@ -6,3 +6,9 @@ body {
 input, button {
     font: inherit;
 }
+
+p {
+    text-align: left;
+    text-indent: 5rem;
+    line-height: 1.7;
+}
