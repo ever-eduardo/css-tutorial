@@ -1,6 +1,7 @@
 body {
     padding: 10%;
     font-size: 2rem;
+    font-family: monospace, sans-serif, Verdana, Tahoma;
 }
 
 input, button {
@@ -12,5 +13,4 @@ p {
     text-indent: 5rem;
     line-height: 1.9;
     word-spacing: 0.5rem;
-    font-style: italic;
 }
