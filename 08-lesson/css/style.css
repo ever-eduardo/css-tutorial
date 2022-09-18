@@ -10,3 +10,7 @@ ol {
     line-height: 1.8;
     list-style-type:armenian;
 }
+
+ul {
+    list-style: square url("https://cdn0.iconfinder.com/data/icons/harmonicons-02/64/check-box-128.png") outside;
+}
