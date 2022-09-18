@@ -15,3 +15,11 @@ ul {
     list-style: square url("https://cdn0.iconfinder.com/data/icons/harmonicons-02/64/check-box-128.png") outside;
     line-height: 2.5;
 }
+
+ul li {
+    color: darkcyan;
+}
+
+ul li:nth-child(even) {
+    color: darkred;
+}
