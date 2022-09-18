@@ -5,3 +5,22 @@ body {
     font-size: 2rem;
     padding: 10%;
 }
+
+/* Check out for the order of the elements here */
+a {
+    text-decoration: underline;
+    color: darkslategrey;
+}
+
+a:visited {
+    color: lightsalmon;
+}
+
+a:hover, a:focus {
+    color: lightgrey;
+    background: darkslategrey;
+}
+
+a:active {
+    color: black;
+}
