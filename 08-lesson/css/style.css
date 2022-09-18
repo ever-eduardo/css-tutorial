@@ -5,3 +5,8 @@ body {
     font-size: 2rem;
     font-family: 'Lato', sans-serif;
 }
+
+ol {
+    line-height: 1.8;
+    list-style-type:armenian;
+}
