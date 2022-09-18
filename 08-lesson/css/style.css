@@ -12,7 +12,7 @@ ol {
 }
 
 ul {
-    list-style: square url("https://cdn0.iconfinder.com/data/icons/harmonicons-02/64/check-box-128.png") outside;
+    list-style: square url("https://cdn0.iconfinder.com/data/icons/harmonicons-02/64/check-box-128.png") inside;
     line-height: 2.5;
 }
 
@@ -26,6 +26,10 @@ ul li:nth-child(even) {
 
 ::marker {
     color: darkblue;
+}
+
+#unique {
+    list-style-position: inside;
 }
 
 #unique ::marker {
