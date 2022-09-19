@@ -10,10 +10,11 @@ body {
     margin: 0.5rem;
     font-family: 'Lato', sans-serif;
     text-align: center;
+    background: darkcyan;
 }
 
 nav {
-    border: 3px solid darkcyan;
+    border: 5px solid darkcyan;
     border-radius: 2rem;
     margin: 0 auto 1rem;
     max-width: 57%;
@@ -32,7 +33,8 @@ ul {
 }
 
 li {
-    border-top: 1px solid darkcyan;
+    border-top: 2px solid darkcyan;
+    background: whitesmoke;
 }
 
 li a {
@@ -52,6 +54,24 @@ li a:focus {
     cursor: pointer;
 }
 
+li:last-child {
+    border-radius: 0 0 2rem 2rem;
+}
+
 li:last-child a {
     border-radius: 0 0 2rem 2rem;
+}
+
+p {
+    margin: 2rem auto 2rem;
+    background: yellowgreen;
+    max-width: 57%;
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+p a {
+    color: black;
 }
