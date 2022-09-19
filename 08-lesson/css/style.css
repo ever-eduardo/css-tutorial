@@ -34,5 +34,5 @@ ul li:nth-child(even) {
 
 #unique ::marker {
     color: darkcyan;
-    content: "Here >> ";
+    content: "::: ";
 }
