@@ -26,3 +26,16 @@ h2 {
     background: blanchedalmond;
     border-radius: 2rem 2rem 0 0;
 }
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    border-top: 1px solid darkcyan;
+}
+
+li a,
+li a:visited {
+    
+}
