@@ -11,3 +11,12 @@ body {
     font-family: 'Lato', sans-serif;
     text-align: center;
 }
+
+nav {
+    border: 3px solid darkcyan;
+    border-radius: 2rem;
+    margin: 0 auto 1rem;
+    max-width: 57%;
+    font-size: 2rem;
+    line-height: 7rem;
+}
