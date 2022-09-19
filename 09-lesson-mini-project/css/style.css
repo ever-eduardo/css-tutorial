@@ -20,3 +20,9 @@ nav {
     font-size: 2rem;
     line-height: 7rem;
 }
+
+h2 {
+    padding: 2rem;
+    background: blanchedalmond;
+    border-radius: 2rem 2rem 0 0;
+}
